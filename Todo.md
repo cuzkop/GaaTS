@@ -5,3 +5,4 @@
 - CouseraのMachine Learningコース進める
 - Golangに詳しくなる
 - Pythonや機械学習を仕事でもやる
+- [Laravel×LINE Bot](https://github.com/kazuki5555/LINE_BOT_Laravel)少しずつやる
