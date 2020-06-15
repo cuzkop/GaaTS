@@ -1,9 +1,27 @@
-### やりたいこと(仕事もプライベートも)
+### 勉強すべきこと
 
-- Kaggleに挑戦
-- AtCoderのRatingあげる
-- CouseraのMachine Learningコース進める
-- Golangに詳しくなる
-- Pythonや機械学習を仕事でもやる
-- [Laravel×LINE Bot](https://github.com/kazuki5555/LINE_BOT_Laravel)少しずつやる
-- ロジスティック回帰の理論の理解を深める。一旦実装できるようにする。
+#### 仕事関連
+
+- Scala
+  - 関数型っぽい書き方
+  - 並列処理
+- Python
+  - Flask
+- 機械学習・deep learning
+- AWS
+  - ECS
+- Terraform
+- Docker
+- DDD
+
+#### テーマ別（プライベート含め）
+
+- データ構造
+- アルゴリズム
+- ネットワーク基礎
+- AWSの資格のやつ
+- システム設計
+- DDD/アーキテクチャ
+- MySQL
+- デザインパターン
+- インフラ基礎
